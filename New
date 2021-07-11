@@ -1,0 +1,6 @@
+sudo apt install tesseract-ocr
+
+sudo apt install libtesseract-dev
+
+sudo pip3 install pytesseract
+
